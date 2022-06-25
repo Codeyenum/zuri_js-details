@@ -1,0 +1,1 @@
+alert("Name: Abanum Oliseyenum\nheight: 6 feet 2 inches\nCountry: Nigeria")
